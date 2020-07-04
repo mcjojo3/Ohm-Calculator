@@ -1,16 +1,16 @@
-A simple Ohm Calculator which calculates Voltage, Amperage and Resistance in one application! Use it like this example:
+En enkel Ohm-kalkylator som beräknar spänning, strömstyrka och motstånd i en applikation! Använd det som detta exempel:
 
-Enter the values you want to calculate. Set a value to 0 if you do not want to calculate it.
+Ange värderna du vill beräkna. Sätt ett värde som 0 om du inte vill beräkna det.
 
-Specify the Voltage: 12
+Ange spänningen: 12
 
-Specify the Amperage: 5
+Ange Strömstyrkan: 5
 
-Specify the Resistance: 0
+Ange Resistansen: 0
 
-You specified 12.0 Volt and 5.0 Amp; Calculates the Resistance...
+Du angav 12.0 Volt och 5.0 Amp; Beräknar Resistansen...
 
 12.0 Volt / 5.0 Amp = 2 Ohm
-Which results in 60.0 Watt.
+Vilket Resulterar i 60.0 Watt.
 
-Do you want to calculate another set of y / n?
+Vill du beräkna en annan uppsättning y/n?
